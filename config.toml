@@ -1,0 +1,167 @@
+title = "SLiMS CommeetUp"
+baseURL = "/"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+[menu]
+
+  [[menu.header]]
+    weight = 2
+    name = "Tentang"
+    url = "/pages/tentang-slims-commet"
+  [[menu.header]]
+    weight = 3
+    name = "Daftar"
+    url = "/daftar/daftar-slims-commeet"
+  [[menu.header]]
+    weight = 4
+    name = "Penginapan"
+    url = "/penginapan/info-penginapan-slims-commeet-2018/"
+  [[menu.header]]
+    weight = 5
+    name = "Blog"
+    url = "/blog"
+  [[menu.header]]
+    weight = 6
+    name = "Press Release"
+    url = "/press-release"
+  [[menu.header]]
+    weight = 7
+    name = "Kontak"
+    url = "/kontak/kontak-panitia-slims-commeet-2018"
+
+
+  [[menu.footer]]
+    weight = 1
+    name = "Galeri"
+    url = "/galeri/"
+  [[menu.footer]]
+    weight = 2
+    name = "Press Release"
+    url = "/press-release/"
+  [[menu.footer]]
+    weight = 3
+    name = "Blog"
+    url = "#"
+  [[menu.footer]]
+    weight = 4
+    name = "Download"
+    url = "/download/"
+  [[menu.footer]]
+    weight = 5
+    name = "Kebijakan Layanan"
+    url = "/pages/kebijakan-layanan/"
+  [[menu.footer]]
+    weight = 6
+    name = "FAQ"
+    url = "/pages/faq"
+
+
+# The site's parameters
+[params]
+
+  # If you want to remove the copyright text you need a Themefisher license.
+  # This license is offered with a 50% discount for all Hugo users.
+  # For information see https://github.com/gohugoio/hugoThemes/issues/260
+
+  dateFormat = "6 January 2006"
+
+  home = "Home"
+
+  [params.slider]
+    enable = true
+    title = "Tren Perpustakaan Di Era Milenial"
+    subtitle = "<b>SLiMS CommeetUp<br/>Surabaya 30 November - 1 Desember 2018</b><i class='fa fa-thumbs-up'></i>  <br/><a href='/blog/slims-commeetup-2018' class='btn btn-main'>Selengkapnya</a></p>"
+  
+  [params.present]
+    titles1 = "Drs. Kuncoro Foe , G.Dip.SC., Ph.D, Apt."
+    para1 = "Perpustakaan Di Era Milenial"
+
+    titles2 = "Wardiyono, MBA. (Lead SDC)"
+    para2 = "Pengembangan SLiMS Inovasi Milenial"
+
+    titles3 = "Ari Agung Priambada, MA."
+    para3 = "Komunikasi Visual dan Infografis Sebagai Media Promosi Perpustakaan dan Kemasan Informasi"
+    
+    titles4 = "Heriyanto, Ph.D. (Dosen Ilmu Perpustakaan Undip"
+    para4 = "Open Access Sustainability di Indonesia"
+
+  [params.services]
+    enable = true
+    headTitles = "SLiMS CommeetUp 2018"
+    secPara = "<p>SLiMS CommeetUp  adalah event tahunan bertemu nya developer SLiMS dan semua komunitas SLIMS. SLiMS Commeet Up biasa nya diadakan setiap akhir tahun.</p><p> SLiMS CommeetUp  memiliki tujuan mengembangkan kepustakawanan dari segala sisinya. Jadikan SliMS sebagai perekat, perekat, perekat kebersamaan kita. </p><p>Berkegiatanlah dengan tema apapun dalam dunia kepustakawanan, dan jadikan SliMS sebagai perekatnyas</p><p><a href='/blog/slims-commeetup-2018' class='btn btn-main'>Selengkapnya</a></p>"
+
+    icons1 = "fa-calendar"
+    txtTitle1 = "Tanggal Pendaftaran"
+    txtParagraf1 = "1 September hinggga 28 November 2018"
+
+    icons2 = "fa-calendar"
+    txtTitle2 = "Tanggal Event"
+    txtParagraf2 = "<h3>30 November sampai<br/>1 Desember 2018</h3>"
+
+    icons3 = "fa-money"
+    txtTitle3 = "Harga Tiket Masuk"
+    txtParagraf3 = "<h4>Early Bird Rp. 350.000</h4><h4>Normal Rp. 400.000</h4></br>Pembayaran sebelum 1 November 2018 <br/><b> BCS Cab.Rungkut Megah Surabaya<br/>No.Rek 6730 2008 36<br/> Deasy Kumalawati </b><br/>WhatsApp 085730300229"
+
+    icons4 = "fa-whatsapp"
+    txtTitle4 = "Kontak Person"
+    txtParagraf4 = "<p>Mas'Odi, M.Pd</br>082301983396</p><p>Desy Kumalawati</br>085730300229<p>Vicentius</br>08517-5016-595<p>Amirul Ulum</br>0818-519-636<p/>"
+
+    icons5 = "fa-map-marker"
+    txtTitle5 = "Lokasi"
+    txtParagraf5 = "Universitas Katholik Widya Mandala<br/>Jl. Raya Dinoyo 42 - 44 <br/>Surabaya"
+
+    icons6 = "fa-smile-o"
+    txtTitle6 = "Fasilitas"
+    txtParagraf6 = "Sertifikat<br/>Seminar Kit<br/>Snack<br/>Makan besar"
+
+  [params.cta2]
+    enable = true
+    cta2headTitles = "Call For Papper"
+    cta2Paragraph = "Mengundang dengan hormat untuk semua pustakawan pustakawati untuk mengirim karya tulis nya di SLiMS CommeetUp 2018"
+    cta2buttonHref = "/pages/call-for-paper-slims-commet-2018"
+    cta2buttonWord = "Selengkapnya"
+
+
+  [params.wrapper]
+    enable = false
+    title = "About Us"
+    italic = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+    paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
+
+  [params.blog]
+    enable = true
+    title = "Get The Latest On What We're doing"
+    subtitle = "Catch up with us, anytime and anywhere"
+
+  [params.feature]
+    enable = true
+    title = "Tentang SLiMSCommeetUp"
+    content = "SLIMS Community Meetup (SLIMS COMMEET) merupakan acara tahunan yang diselenggararakan oleh komunitas untuk mempertemukan komunitas SLIMS dari berbagai daerah se-Indonesia, Senayan Developer Community (SDC), pemerhati dunia perpustakaan dan pemerhati dunia open source, untuk berbagi pengalaman dan berdiskusi mengenai perkembangan serta rencana kegiatan SLIMS dalam rangka membangun dunia perpustakaan yang lebih mandiri dan profesional."
+    [params.feature.button]
+      caption = "Selengkapnya"
+      url = "tentang/tentang-slims-commet/"
+
+  [params.call]
+    enable = true
+    title = "Mari Bergabung Dengan Kami di SLiMSCommeetUp 2018"
+    paragraph = "Sharing session antar komunitas dengan saling memperkenalkan diri dan berbagai pengalaman tentang aktivitas yang telah dilakukan melalui presentasi."
+    text = "OK"
+
+  [params.contact]
+    enable = true
+    title = "Drop us a note"
+    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    [params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
+    [params.contact.box]
+      title = "Stop by for a visit"
+      address = "North Main Street, Brooklyn Australia"
+      email = "Email: contact@mail.com"
+      phone = "Phone: +88 01672 506 744"
+    [params.contact.gmaps]
+      title = "We Also Count in Google Maps"
