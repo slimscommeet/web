@@ -1,0 +1,22 @@
+#PaksaSubDomainArsipKeHTTPS
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://slimscommeet.github.io/$1 [R,L]
+
+#PengalihanEror
+ErrorDocument 404 https://slimscommeet.github.io/
+ErrorDocument 500 https://slimscommeet.github.io/
+
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_URI} ^/404/$
+RewriteRule ^(.*)$ https://slimscommeet.github.io [L]
+
+RewriteCond %{REQUEST_URI} ^/500/$
+RewriteRule ^(.*)$ https://slimscommeet.github.io [L]
+
+# or map them to one error document:
+#RewriteCond %{REQUEST_URI} ^/404/$ [OR]
+#RewriteCond %{REQUEST_URI} ^/500/$
+#RewriteRule ^(.*)$ https://slimscommeet.github.io [L]
