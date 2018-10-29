@@ -58,7 +58,7 @@ theme = "airspace-hugo"
   [params.social]
     enable = true
     socialH3 = "Ikuti Kita Di Sosmed"
-    
+
 
 
 # The site's parameters
@@ -93,7 +93,7 @@ theme = "airspace-hugo"
   [params.services]
     enable = true
     headTitles = "SLiMS CommeetUp 2018"
-    secPara = "<p>SLiMS CommeetUp  adalah event tahunan bertemu nya developer SLiMS dan semua komunitas SLIMS. SLiMS Commeet Up biasa nya diadakan setiap akhir tahun.</p><p> SLiMS CommeetUp  memiliki tujuan mengembangkan kepustakawanan dari segala sisinya. Jadikan SliMS sebagai perekat, perekat, perekat kebersamaan kita. </p><p>Berkegiatanlah dengan tema apapun dalam dunia kepustakawanan, dan jadikan SliMS sebagai perekatnyas</p><p><a href='/blog/slims-commeetup-2018' class='btn btn-main'>Selengkapnya</a></p>"
+    secPara = "<p>SLiMS CommeetUp  adalah event tahunan bertemu nya developer SLiMS dan semua komunitas SLIMS. SLiMS Commeet Up biasa nya diadakan setiap akhir tahun.</p><p> SLiMS CommeetUp  memiliki tujuan mengembangkan kepustakawanan dari segala sisinya. Jadikan SliMS sebagai perekat, perekat, perekat kebersamaan kita. </p><p>Berkegiatanlah dengan tema apapun dalam dunia kepustakawanan, dan jadikan SliMS sebagai perekatnyas</p><p><a href='/daftar/daftar-slims-commeet/' class='btn btn-main'>Daftar</a></p>"
 
     icons1 = "fa-calendar"
     txtTitle1 = "Tanggal Pendaftaran"
