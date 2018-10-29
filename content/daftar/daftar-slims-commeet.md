@@ -5,13 +5,35 @@ draft: false
 author : "Admin"
 tag : "pages"
 ---
+## Alur Pendaftaran
 
-Pariatur incididunt fugiat elit cillum sunt in incididunt id ad culpa est. Laboris irure magna amet tempor aliquip reprehenderit nostrud. Adipisicing sint consequat ullamco laboris laboris velit.
+### <i class='fa fa-money'></i> 1. Transfer biaya pendaftan
 
-Velit occaecat mollit sint in ullamco incididunt esse elit do ea elit cupidatat. Excepteur non non velit consectetur. Commodo aliquip ut veniam ut. Reprehenderit laboris velit fugiat labore in duis mollit eiusmod esse laborum. Aliquip qui enim reprehenderit voluptate ut fugiat aute.
+* Transfer biaya pendaftaran ke :
+        
+    BCS Cab.Rungkut Megah Surabaya
 
-Lorem cupidatat nulla dolor ea quis excepteur duis labore amet cillum. Consectetur qui non id ea cupidatat sit ex velit. Proident tempor amet veniam quis aliqua velit adipisicing consequat ad dolore. Tempor id esse do occaecat sint laboris duis adipisicing sunt dolore Lorem sint ad exercitation. Enim irure officia officia cillum cillum cupidatat enim. Velit commodo ad consectetur aliquip occaecat aliquip irure.
+    No.Rek 6730 2008 36
 
-Ea reprehenderit ea minim elit esse minim elit Lorem. Dolor aliqua aute commodo est. Nostrud qui eiusmod amet do amet labore officia do eiusmod adipisicing ex incididunt aliquip minim. Ad do consectetur velit laborum elit non amet veniam minim pariatur non occaecat.
+    Deasy Kumalawati
 
-Velit non dolore laboris qui aliqua sit ut non magna et sunt cupidatat. Anim enim ipsum aliqua aute fugiat aliquip commodo excepteur velit sint. Ea velit dolor culpa irure mollit aliquip velit nisi ullamco magna magna pariatur Lorem ipsum. Non eiusmod Lorem officia dolore veniam duis incididunt. Excepteur excepteur proident irure ad. Sunt duis ipsum non veniam incididunt consequat in ex commodo. Elit quis nulla reprehenderit velit excepteur sint quis labore labore enim reprehenderit aliquip nisi.
+### <i class='fa fa-check'></i> 2. Konfirmasi pembayaran ke 
+
+*  Konfirmasi pembayaran Anda ke 
+
+    Deasy Kumalawati
+
+    WhatsApp 085730300229
+
+### <i class='fa fa-user-plus'></i> 3. Isi data peserta 
+
+*  Isi data kepersertaan Peserta SLiMS CommeetUp 2018 anda di :
+
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScDESm0K7WKPiuFIHUA-PdzQ7EzBGElHUOCJh0HsIv3PZL_Ew/viewform?usp=send_form" class="btn btn-main">Isi Data </a>
+
+### <i class='fa fa-university'></i> 4. Datang Ke Acara SLiMS CommeetUp
+
+
+*   Hadir di acara Acara SLiMS CommeetUp 2018 di
+
+    **Universitas Katolik Widya Mandala Surabaya 30 November sampai 1 Desember 2018** bertemu dengan semua Komunitas SLiMS 
