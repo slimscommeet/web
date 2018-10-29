@@ -30,12 +30,6 @@ theme = "airspace-hugo"
     name = "Kontak"
     url = "/kontak/kontak-panitia-slims-commeet-2018"
 
-  # Enable comments by entering your Disqus shortname
-  disqusShortname = ""
-  # We need a proxy to access Disqus api in China
-  disqus_proxy = ""
-  disqus_site = ""
-
   [[menu.footer]]
     weight = 1
     name = "Galeri"
