@@ -58,6 +58,10 @@ theme = "airspace-hugo"
   [params.social]
     enable = true
     socialH3 = "Ikuti Kita Di Sosmed"
+    linkTwiter = "https://twitter.com/slimscommeetup"
+    linkFacebook = "https://www.facebook.com/groups/senayan.slims/"
+    linkYoutube = "https://www.youtube.com/channel/UCfNttTtZpLTo67JiDicqcsw"
+    linkInstagram = ""
 
 
 
