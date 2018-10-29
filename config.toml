@@ -55,6 +55,11 @@ theme = "airspace-hugo"
     name = "FAQ"
     url = "/pages/faq"
 
+  [params.social]
+    enable = true
+    socialH3 = "Ikuti Kita Di Sosmed"
+    
+
 
 # The site's parameters
 [params]
